@@ -1,0 +1,14 @@
+C:\Users\vinicius\source\repos\AtividadeAvaliativa1\AtividadeAvaliativa1\bin\Debug\AtividadeAvaliativa1.exe.config
+C:\Users\vinicius\source\repos\AtividadeAvaliativa1\AtividadeAvaliativa1\bin\Debug\AtividadeAvaliativa1.exe
+C:\Users\vinicius\source\repos\AtividadeAvaliativa1\AtividadeAvaliativa1\bin\Debug\AtividadeAvaliativa1.pdb
+C:\Users\vinicius\source\repos\AtividadeAvaliativa1\AtividadeAvaliativa1\obj\Debug\AtividadeAvaliativa1.csproj.AssemblyReference.cache
+C:\Users\vinicius\source\repos\AtividadeAvaliativa1\AtividadeAvaliativa1\obj\Debug\AtividadeAvaliativa1.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinicius\source\repos\AtividadeAvaliativa1\AtividadeAvaliativa1\obj\Debug\AtividadeAvaliativa1.Form1.resources
+C:\Users\vinicius\source\repos\AtividadeAvaliativa1\AtividadeAvaliativa1\obj\Debug\AtividadeAvaliativa1.Properties.Resources.resources
+C:\Users\vinicius\source\repos\AtividadeAvaliativa1\AtividadeAvaliativa1\obj\Debug\AtividadeAvaliativa1.csproj.GenerateResource.cache
+C:\Users\vinicius\source\repos\AtividadeAvaliativa1\AtividadeAvaliativa1\obj\Debug\AtividadeAvaliativa1.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\source\repos\AtividadeAvaliativa1\AtividadeAvaliativa1\obj\Debug\AtividadeAvaliativa1.exe
+C:\Users\vinicius\source\repos\AtividadeAvaliativa1\AtividadeAvaliativa1\obj\Debug\AtividadeAvaliativa1.pdb
+C:\Users\vinicius\source\repos\AtividadeAvaliativa1\AtividadeAvaliativa1\obj\Debug\AtividadeAvaliativa1.Formularios.FormCalcularMedia.resources
+C:\Users\vinicius\source\repos\AtividadeAvaliativa1\AtividadeAvaliativa1\obj\Debug\AtividadeAvaliativa1.Formularios.FormCalcularExameFinal.resources
+C:\Users\vinicius\source\repos\AtividadeAvaliativa1\AtividadeAvaliativa1\obj\Debug\AtividadeAvaliativa1.Formularios.FormSituacaoAluno.resources
